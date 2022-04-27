@@ -10,3 +10,6 @@ Tienes diferentes tutoriales, dentro del Cloudwatch:
 
 3. CloudWatchEvents: vemaos a crear un rule, que nos analizara si una instancia salta desde un estado de "pending" a otra, y
  tras eso nos mandara un email a nuestro correo. 
+
+4. Eventbridge: vamos a hacer lo mismo que en "CloudWatchEvents", pero en Eventbridge. 
+
