@@ -7,3 +7,6 @@ Tienes diferentes tutoriales, dentro del Cloudwatch:
 1. Creación de Metrica a mano: 
 
 2. CloudwatchAlarms_SNS: Creación de Metrics Filter sobre un CloudWatchlogs, que desencadena en un SNS por medio de un CloudWatchAlarms
+
+3. CloudWatchEvents: vemaos a crear un rule, que nos analizara si una instancia salta desde un estado de "pending" a otra, y
+ tras eso nos mandara un email a nuestro correo. 
