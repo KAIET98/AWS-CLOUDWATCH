@@ -4,6 +4,6 @@ Este repositorio consta en la creación de una métric amuy simple por medio del
 
 Tienes diferentes tutoriales, dentro del Cloudwatch: 
 
-1. Creación de Metrica a mano: 
+1. Creación de Metrica a mano: para poner una metrica desde la shell.
 
 2. CloudwatchAlarms_SNS: Creación de Metrics Filter sobre un CloudWatchlogs, que desencadena en un SNS por medio de un CloudWatchAlarms
